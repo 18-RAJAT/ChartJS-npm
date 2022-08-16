@@ -13,26 +13,6 @@
     <a href="https://chartjs-slack.herokuapp.com/"><img src="https://img.shields.io/badge/slack-chartjs-blue.svg?style=flat-square&maxAge=3600" alt="Slack"></a>
 </p>
 
-## Documentation
-
-All the links point to the new version 3 of the lib.
-
-* [Introduction](https://www.chartjs.org/docs/latest/)
-* [Getting Started](https://www.chartjs.org/docs/latest/getting-started/index)
-* [General](https://www.chartjs.org/docs/latest/general/data-structures)
-* [Configuration](https://www.chartjs.org/docs/latest/configuration/index)
-* [Charts](https://www.chartjs.org/docs/latest/charts/line)
-* [Axes](https://www.chartjs.org/docs/latest/axes/index)
-* [Developers](https://www.chartjs.org/docs/latest/developers/index)
-* [Popular Extensions](https://github.com/chartjs/awesome)
-* [Samples](https://www.chartjs.org/samples/)
-
-In case you are looking for the docs of version 2, you will have to specify the specific version in the url like this: [https://www.chartjs.org/docs/2.9.4/](https://www.chartjs.org/docs/2.9.4/)
-
-## Contributing
-
-Instructions on building and testing Chart.js can be found in [the documentation](https://www.chartjs.org/docs/master/developers/contributing.html#building-and-testing). Before submitting an issue or a pull request, please take a moment to look over the [contributing guidelines](https://www.chartjs.org/docs/master/developers/contributing) first. For support, please post questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/chart.js) with the `chart.js` tag.
-
 ## License
 
 Chart.js is available under the [MIT license](LICENSE.md).
